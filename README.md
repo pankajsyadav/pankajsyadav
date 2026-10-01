@@ -14,17 +14,22 @@ I build data-driven decision systems that turn messy data into measurable busine
 ### 1. Predictive Analytics
 End-to-end predictive modeling pipeline with model comparison, threshold analysis, and business KPI dashboard.
 🔗 Repo: [pankajsyadav/PredictiveAnalytics](https://github.com/pankajsyadav/PredictiveAnalytics)  
-Demo: [Streamlit App](link)
+Demo: Streamlit app in progress
 
-### 2. EDA & Decision Science Case Study
+### 2. MovieLens Recommender — Streamlit
+Hybrid recommender with collaborative filtering, content similarity and genre weighting. Live demo.
+🔗 Repo: [pankajsyadav/Streamlit](https://github.com/pankajsyadav/Streamlit)  
+Demo: https://pankajsyadav-streamlit-app.streamlit.app
+
+### 3. EDA & Decision Science Case Study
 Exploratory data analysis of institutional cohorts with value-added assessment and actionable recommendations.
 🔗 Repo: [pankajsyadav/EDA2024](https://github.com/pankajsyadav/EDA2024)
 
-### 3. Data Mining – DSC550
+### 4. Data Mining – DSC550
 Classification & clustering assignments with reproducible notebooks, evaluation metrics, and reporting.
 🔗 Repo: [pankajsyadav/DataMining](https://github.com/pankajsyadav/DataMining)
 
-### 4. GenAI for Decision Support
+### 5. GenAI for Decision Support
 Prototypes for LLM-assisted summarization and structured decision outputs.
 🔗 Repo: [pankajsyadav/GenAI](https://github.com/pankajsyadav/GenAI)
 
