@@ -4,7 +4,7 @@
 I build data-driven decision systems that turn messy data into measurable business impact — from exploratory analysis and predictive modeling to decision support prototypes with GenAI and Streamlit.
 
 🔗 Portfolio: [pankajyadav.github.io](https://pankajyadav.github.io)  
-🔗 LinkedIn: [add your link]  
+🔗 LinkedIn: [Pankaj Yadav](https://www.linkedin.com/in/pankajkyadav)  
 📄 Resume: [Resume PDF](https://github.com/pankajsyadav/pankajyadav.github.io/blob/main/assets/resume/)
 
 ## Skills
@@ -34,7 +34,7 @@ Prototypes for LLM-assisted summarization and structured decision outputs.
 - Cloud DW Comparison
 
 ## Get in touch
-📧 pankaj@example.com • 🐙 github.com/pankajsyadav
+📧 pankaj.y@icloud.com • 🐙 github.com/pankajsyadav
 
 ---
 *This profile is actively curated for Data Science & Decision Science roles.*
